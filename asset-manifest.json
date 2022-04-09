@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GoFish/static/css/main.0df00913.css",
+    "main.css": "/GoFish/static/css/main.9e435e72.css",
     "main.js": "/GoFish/static/js/main.8f87fb6d.js",
     "static/media/back.png": "/GoFish/static/media/back.865f32b61ee92b135e50.png",
     "static/media/queen_of_clubs.png": "/GoFish/static/media/queen_of_clubs.ef480115313c1c393699.png",
@@ -56,11 +56,11 @@
     "static/media/2_of_hearts.png": "/GoFish/static/media/2_of_hearts.c2cb81fb3d816683e15a.png",
     "static/media/2_of_diamonds.png": "/GoFish/static/media/2_of_diamonds.a51b192d2f2ba1fc1d53.png",
     "index.html": "/GoFish/index.html",
-    "main.0df00913.css.map": "/GoFish/static/css/main.0df00913.css.map",
+    "main.9e435e72.css.map": "/GoFish/static/css/main.9e435e72.css.map",
     "main.8f87fb6d.js.map": "/GoFish/static/js/main.8f87fb6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0df00913.css",
+    "static/css/main.9e435e72.css",
     "static/js/main.8f87fb6d.js"
   ]
 }
