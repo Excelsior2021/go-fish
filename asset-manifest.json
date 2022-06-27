@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/go-fish/static/css/main.00a0569c.css",
-    "main.js": "/go-fish/static/js/main.f87540b9.js",
+    "main.css": "/go-fish/static/css/main.91600000.css",
+    "main.js": "/go-fish/static/js/main.cfc34295.js",
     "static/media/back.png": "/go-fish/static/media/back.865f32b61ee92b135e50.png",
     "static/media/queen_of_clubs.png": "/go-fish/static/media/queen_of_clubs.ef480115313c1c393699.png",
     "static/media/king_of_hearts.png": "/go-fish/static/media/king_of_hearts.67c7a87603fdc5b5e2f7.png",
@@ -56,11 +56,11 @@
     "static/media/2_of_hearts.png": "/go-fish/static/media/2_of_hearts.c2cb81fb3d816683e15a.png",
     "static/media/2_of_diamonds.png": "/go-fish/static/media/2_of_diamonds.a51b192d2f2ba1fc1d53.png",
     "index.html": "/go-fish/index.html",
-    "main.00a0569c.css.map": "/go-fish/static/css/main.00a0569c.css.map",
-    "main.f87540b9.js.map": "/go-fish/static/js/main.f87540b9.js.map"
+    "main.91600000.css.map": "/go-fish/static/css/main.91600000.css.map",
+    "main.cfc34295.js.map": "/go-fish/static/js/main.cfc34295.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a0569c.css",
-    "static/js/main.f87540b9.js"
+    "static/css/main.91600000.css",
+    "static/js/main.cfc34295.js"
   ]
 }
